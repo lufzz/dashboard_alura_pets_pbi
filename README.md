@@ -57,10 +57,9 @@ Meu primeiro dashboard feito com o Power Bi
 # :package: Recursos
 
 ### Excel
-<img src="./files/excel.jpg" width="50%">
+<img src="./Files/excel.jpg" width="50%">
 
 # :art: Layout PC
 
-<img src="./files/dashboard.jpg" alt="" width="100%">
 
-
+<img src="./Files/dash alurapets.png" alt="" width="100%">
