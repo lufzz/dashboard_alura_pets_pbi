@@ -28,6 +28,7 @@ Meu primeiro dashboard feito com o Power Bi
 
     
  # :mag: Análise
+    
     • Faturamento por gênero : O faturamento total por clientes do gênero feminino foi 21,5% maior do que o gênero masculino,
     sendo R$ 1.110.479,5 contra R$ 917.458;
     
@@ -41,6 +42,9 @@ Meu primeiro dashboard feito com o Power Bi
   
  # :bulb: Sugestões de tomada de decisão para Helô:
     
+    • Investir mais em produtos da marca Doguito, que representa mais que a metade do faturamento total;
+    • Focar em abordagens e técnicas de vendas voltadas para o publico femino visto que são os que mais compram;
+    • Expandir a loja para a região de itaquera que apresentou o maior faturamento total.
     
     
     
