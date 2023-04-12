@@ -1,5 +1,5 @@
 
-# <p align="center"> dashboard_alura_pets_pbi
+# <p align="center"> Projeto Alura Pets
 <p align="center"> 
 Meu primeiro dashboard feito com o Power Bi
 <h1 align="center">
@@ -14,13 +14,27 @@ Meu primeiro dashboard feito com o Power Bi
  
 - Idealizador: Alura
 - Cliente : Helô dona da loja de Petshop Alura Pets
-
-- Objetivo: Análise dos dados da loja para obter informações sobre faturamento total,visualizações gráficas dos dados e filtrar as informações  de acordo com a marca.
-
-- Responsabilidade: Criar um Dashboard que reuna todos esses dados que foram coletados pela loja durante os anos de 2018,2019 e 2020 e transforme em informações que permitam com que Helô consiga tomar decisões mais assertivas em seu empreendimento.
+- Responsabilidade: Criar um Dashboard que reuna todos esses os dados que foram coletados pela loja durante os anos de 2018,2019 e 2020 e transforme em informações que permitam com que Helô consiga tomar decisões mais assertivas em seu empreendimento.
 - Lado da força: Análise de Dados
 - Tipo: Business Intelligence
+    
+# :dart: Objetivo 
+    
+    •  Visualização do  faturamento de forma gráfica por mês 
+    •  Vizualizar os produtos disponíveis na loja 
+    •  Identificar qual o gênero que mais compra dentro da loja
+    •  Saber quantos pets geralmente os clientes da loja possui
+    •  Evidenciar de qual bairro são a maioria dos clientes  
 
+    
+ # :eyes: Análise
+    • **Faturamento por gênero** : O faturamento total para clientes do gênero feminino foi 21,5% maior do **que** o gênero masculin
+    sendo R$ 1.110.479,5 contra R$ 917.458
+    
+    • **Tendência de faturamento** : O faturamento total apresentou uma tendência de aumento ao longo do tempo, 
+    com um aumento de 51% entre outubro de 2018 e outubro de 2020.
+    
+    -  :   
 
 # :rocket: Tecnologias
 
