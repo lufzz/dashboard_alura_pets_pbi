@@ -27,14 +27,24 @@ Meu primeiro dashboard feito com o Power Bi
     •  Evidenciar de qual bairro são a maioria dos clientes  
 
     
- # :eyes: Análise
-    • **Faturamento por gênero** : O faturamento total para clientes do gênero feminino foi 21,5% maior do **que** o gênero masculin
-    sendo R$ 1.110.479,5 contra R$ 917.458
+ # :mag: Análise
+    • Faturamento por gênero : O faturamento total por clientes do gênero feminino foi 21,5% maior do que o gênero masculino,
+    sendo R$ 1.110.479,5 contra R$ 917.458;
     
-    • **Tendência de faturamento** : O faturamento total apresentou uma tendência de aumento ao longo do tempo, 
-    com um aumento de 51% entre outubro de 2018 e outubro de 2020.
+    • Tendência de faturamento : O faturamento total apresentou uma tendência de aumento ao longo do tempo, 
+    com um aumento de 51% entre outubro de 2018 e outubro de 2020;
     
-    -  :   
+    • Marca mais vendida : Doguito liderou as vendas representando 57% do faturamento total com 29,1 mil produtos vendidos;
+    
+    • Bairro destque : Representando 30,7% do faturamento total Itaquera é o bairro onde se encontra a maior parte dos clientes.
+    
+  
+ # :bulb: Sugestões de tomada de decisão para Helô:
+    
+    
+    
+    
+      
 
 # :rocket: Tecnologias
 
