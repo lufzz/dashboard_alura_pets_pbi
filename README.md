@@ -52,7 +52,7 @@ Meu primeiro dashboard feito com o Power Bi
 
 # :rocket: Tecnologias
 
-<img src="./files/logo pbi.png" width="50%">
+<img src="./Files/logo pbi.png" width="50%">
 
 # :package: Recursos
 
